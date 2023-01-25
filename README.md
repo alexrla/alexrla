@@ -51,7 +51,7 @@
 
 <div>
     <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexrla&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img align="right" height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexrla&theme=react"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexrla&theme=react"/>
 </div>
 
 <br />
