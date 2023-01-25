@@ -47,9 +47,24 @@
 
 <br />
 
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexrla&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<div align="center">
+ <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexrla&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+ <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexrla&langs_count=8&layout=compact&theme=react"/>
+</div>
 
-<img height="350" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexrla&langs_count=8&theme=react"/>
+<br />
+
+ <div align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexrla&theme=react"/>
+ </div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/alexrla/alexrla/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+<br />
 
 <div align="right">
   <div>
