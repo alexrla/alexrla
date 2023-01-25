@@ -9,7 +9,6 @@
  <p align="justify">Sejam bem-vindos ao meu GitHub, eu me chamo Alex Rodrigo, tenho 21 anos e moro em Maceió-AL. Estudante de engenharia de software, sou apaixonado por programação e resolução de problemas :blue_heart:!!!</p>
 
  <br />
- <br />
 
  <div align="center">
   <img src="https://i.pinimg.com/originals/d3/9d/41/d39d41a34f2ccccec2aa34c9f7b2cc8b.gif" width="400" />
@@ -48,7 +47,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
 </div>
 
-<br />
 <br />
 
 <div align="center">
