@@ -9,6 +9,7 @@
  <p align="justify">Sejam bem-vindos ao meu GitHub, eu me chamo Alex Rodrigo, tenho 21 anos e moro em Maceió-AL. Estudante de engenharia de software, sou apaixonado por programação e resolução de problemas :blue_heart:!!!</p>
 
  <br />
+ <br />
 
  <div align="center">
   <img src="https://i.pinimg.com/originals/d3/9d/41/d39d41a34f2ccccec2aa34c9f7b2cc8b.gif" width="400" />
@@ -40,7 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
 </div>
 
-<br />
 
 <div display="block">
   <h3>Atualmente, estudando...</h3>
@@ -56,7 +56,6 @@
  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexrla&langs_count=8&layout=compact&theme=react"/>
 </div>
 
-<br />
 <br />
 
  <div align="center">
