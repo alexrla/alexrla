@@ -6,7 +6,6 @@
 <div display="inline-block">
  <h1 align="center">Hii, dattebasa!!!</h1>
 
-
  <p align="justify">Sejam bem-vindos ao meu GitHub, eu me chamo Alex Rodrigo, tenho 21 anos e moro em Maceió-AL. Estudante de engenharia de software, sou apaixonado por programação e resolução de problemas :blue_heart:!!!</p>
 
  <br />
@@ -14,7 +13,6 @@
  <div align="center">
   <img src="https://i.pinimg.com/originals/d3/9d/41/d39d41a34f2ccccec2aa34c9f7b2cc8b.gif" width="400" />
  </div>
-
 </div>
 
 <br />
@@ -50,8 +48,6 @@
 <br />
 
 <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexrla&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-
-<br />
 
 <img height="350" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexrla&langs_count=8&theme=react"/>
 
