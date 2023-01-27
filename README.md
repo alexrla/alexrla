@@ -19,6 +19,7 @@
 <br />
 <br />
 <br />
+<br />
 
 <div display="block">
   <h3>Ferramentas e Tecnologias...</h3>
@@ -38,6 +39,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
 </div>
+
+<br />
 
 <div display="block">
   <h3>Atualmente, estudando...</h3>
