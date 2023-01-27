@@ -46,6 +46,7 @@
 </div>
 
 <br />
+<hr />
 <br />
 
 <div align="center">
