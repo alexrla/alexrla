@@ -19,7 +19,6 @@
 <br />
 <br />
 <br />
-<br />
 
 <div display="block">
   <h3>Ferramentas e Tecnologias...</h3>
@@ -40,15 +39,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
 </div>
 
-<br />
-
 <div display="block">
   <h3>Atualmente, estudando...</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50" height="50" />
 </div>
 
-<br />
 <br />
 
 <div align="center">
