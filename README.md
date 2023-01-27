@@ -5,8 +5,6 @@
 
 <div display="inline-block">
  <h1 align="center">Hii, dattebasa!!!</h1>
- 
- <br />
 
  <p align="justify">Sejam bem-vindos ao meu GitHub, eu me chamo Alex Rodrigo, tenho 21 anos e moro em Maceió-AL. Estudante de engenharia de software, sou apaixonado por programação e resolução de problemas :blue_heart:!!!</p>
 
