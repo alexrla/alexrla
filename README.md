@@ -1,7 +1,7 @@
 <img src="https://uploaddeimagens.com.br/images/004/311/518/full/Chibi-Boruto-Uzumaki-by-Marcinha20-on-DeviantArt.png?1674612294" align="left" width="350px" />
 
-</br>
-</br>
+<br />
+<br />
 
 <div display="inline-block">
  <h1 align="center">Hii, dattebasa!!!</h1>
@@ -17,7 +17,8 @@
  </div>
 </div>
 
-<br>
+<br />
+<br />
 
 <div display="block">
   <h3>Ferramentas e Tecnologias...</h3>
