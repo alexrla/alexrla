@@ -57,7 +57,8 @@
  <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexrla&theme=react"/>
  </div>
- 
+
+<br />
 <hr />
 
 <div align="center">
