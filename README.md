@@ -18,6 +18,7 @@
 <br />
 <br />
 <br />
+<br />
 
 <div display="block">
   <h3>Ferramentas e Tecnologias...</h3>
@@ -47,6 +48,7 @@
 <br />
 
 <hr />
+<br />
 
 <div align="center">
  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexrla&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
