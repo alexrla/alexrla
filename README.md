@@ -5,6 +5,8 @@
 
 <div display="inline-block">
  <h1 align="center">Hii, dattebasa!!!</h1>
+ 
+ <br />
 
  <p align="justify">Sejam bem-vindos ao meu GitHub, eu me chamo Alex Rodrigo, tenho 21 anos e moro em Maceió-AL. Estudante de engenharia de software, sou apaixonado por programação e resolução de problemas :blue_heart:!!!</p>
 
@@ -15,11 +17,7 @@
  </div>
 </div>
 
-<br />
-<br />
-<br />
-<br />
-<br />
+<br>
 
 <div display="block">
   <h3>Ferramentas e Tecnologias...</h3>
@@ -40,7 +38,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" height="50" />
 </div>
 
-
 <div display="block">
   <h3>Atualmente, estudando...</h3>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
@@ -53,8 +50,6 @@
  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=alexrla&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=alexrla&langs_count=8&layout=compact&theme=react"/>
 </div>
-
-<br />
 
  <div align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=alexrla&theme=react"/>
