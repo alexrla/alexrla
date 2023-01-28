@@ -68,7 +68,7 @@
 <div align="right">
   <div>
     <a href = "mailto:alexrodrigoarruda@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="https://www.linkedin.com/in/alex-rodrigo-arruda-b1a94b263/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   <img height="115" align="right" src="https://i.pinimg.com/originals/33/a3/17/33a3175868b219d7fe502e9bbcb1693f.gif" />
 </div>
